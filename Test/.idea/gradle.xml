@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Android_Studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ChangeTheme" />
+            <option value="$PROJECT_DIR$/c封装登录验证" />
+            <option value="$PROJECT_DIR$/feedback" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/qqslidingmenu" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/shadowdemo" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
+            <option value="$PROJECT_DIR$/传感器_方向" />
+            <option value="$PROJECT_DIR$/写SD卡" />
+            <option value="$PROJECT_DIR$/列表操作" />
+            <option value="$PROJECT_DIR$/对话框合集" />
+            <option value="$PROJECT_DIR$/拍照" />
+            <option value="$PROJECT_DIR$/排序算法调用" />
+            <option value="$PROJECT_DIR$/数据库" />
+            <option value="$PROJECT_DIR$/新闻浏览" />
+            <option value="$PROJECT_DIR$/网络图片查看器" />
+            <option value="$PROJECT_DIR$/网页源代码查看器" />
+            <option value="$PROJECT_DIR$/获取呼叫记录" />
+            <option value="$PROJECT_DIR$/补间动画" />
+            <option value="$PROJECT_DIR$/视频播放器" />
+            <option value="$PROJECT_DIR$/锅炉监控" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

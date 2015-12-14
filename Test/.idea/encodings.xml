@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/c封装登录验证/src/main/java/com/fanzhang/cLogin/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c封装登录验证/src/main/jni/checklogin.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/排序算法调用/src/main/jni/c_sortArray.c" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

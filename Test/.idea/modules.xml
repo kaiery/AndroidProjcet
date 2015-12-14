@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChangeTheme/ChangeTheme.iml" filepath="$PROJECT_DIR$/ChangeTheme/ChangeTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c封装登录验证/c封装登录验证.iml" filepath="$PROJECT_DIR$/c封装登录验证/c封装登录验证.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feedback/feedback.iml" filepath="$PROJECT_DIR$/feedback/feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqslidingmenu/qqslidingmenu.iml" filepath="$PROJECT_DIR$/qqslidingmenu/qqslidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shadowdemo/shadowdemo.iml" filepath="$PROJECT_DIR$/shadowdemo/shadowdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbardemo/toolbardemo.iml" filepath="$PROJECT_DIR$/toolbardemo/toolbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/传感器_方向/传感器_方向.iml" filepath="$PROJECT_DIR$/传感器_方向/传感器_方向.iml" />
+      <module fileurl="file://$PROJECT_DIR$/写SD卡/写SD卡.iml" filepath="$PROJECT_DIR$/写SD卡/写SD卡.iml" />
+      <module fileurl="file://$PROJECT_DIR$/列表操作/列表操作.iml" filepath="$PROJECT_DIR$/列表操作/列表操作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/对话框合集/对话框合集.iml" filepath="$PROJECT_DIR$/对话框合集/对话框合集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/拍照/拍照.iml" filepath="$PROJECT_DIR$/拍照/拍照.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排序算法调用/排序算法调用.iml" filepath="$PROJECT_DIR$/排序算法调用/排序算法调用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库/数据库.iml" filepath="$PROJECT_DIR$/数据库/数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/新闻浏览/新闻浏览.iml" filepath="$PROJECT_DIR$/新闻浏览/新闻浏览.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络图片查看器/网络图片查看器.iml" filepath="$PROJECT_DIR$/网络图片查看器/网络图片查看器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网页源代码查看器/网页源代码查看器.iml" filepath="$PROJECT_DIR$/网页源代码查看器/网页源代码查看器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/获取呼叫记录/获取呼叫记录.iml" filepath="$PROJECT_DIR$/获取呼叫记录/获取呼叫记录.iml" />
+      <module fileurl="file://$PROJECT_DIR$/补间动画/补间动画.iml" filepath="$PROJECT_DIR$/补间动画/补间动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/视频播放器/视频播放器.iml" filepath="$PROJECT_DIR$/视频播放器/视频播放器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/锅炉监控/锅炉监控.iml" filepath="$PROJECT_DIR$/锅炉监控/锅炉监控.iml" />
+    </modules>
+  </component>
+</project>

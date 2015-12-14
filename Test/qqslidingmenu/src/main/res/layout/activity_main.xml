@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:kaiery="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--自定义组件-->
+    <com.fanzhang.qqslidingmenu.view.SildingMenu
+        android:id="@+id/sm_menu"
+        kaiery:rightPadding="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <include layout="@layout/menu_layout"/>
+            <LinearLayout
+                android:background="@mipmap/qq"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <Button
+                    android:text="点击"
+                    android:onClick="toggleMenu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.fanzhang.qqslidingmenu.view.SildingMenu>
+
+
+</RelativeLayout>
